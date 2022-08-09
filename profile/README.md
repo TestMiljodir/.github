@@ -1,9 +1,14 @@
-## Hi there 👋
-**Here are some ideas to get you started:**
+## Velkommen til Miljødirektoratets GitHub! 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
+•	Hjemmeside: https://www.miljodirektoratet.no/
+
+•	Retningslinjer for utvikling: https://miljodir.atlassian.net/wiki/spaces/DEVOPS/pages/2524840655/Retningslinjer+for+systemutvikling (send en epost til DevOps@miljodir.no for å be om tilgang).
+
+•	Slack: http://slack.miljodir.no/
+
+
+
 
 <!--
 
