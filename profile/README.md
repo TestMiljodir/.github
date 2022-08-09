@@ -12,9 +12,9 @@
 
 •	Hjemmeside: https://www.miljodirektoratet.no/
 
-•	Retningslinjer for utvikling: https://miljodir.atlassian.net/wiki/spaces/DEVOPS/pages/2524840655/Retningslinjer+for+systemutvikling (send en epost til DevOps@miljodir.no for å be om tilgang).
+•	Kjøreregler for produktutvikling: https://github.com/miljodir/guider/blob/main/produktutvikling.md (send en epost til ithjelp@miljodir.no for å be om tilgang).
 
-•	Slack: http://slack.miljodir.no/
+•	Slack: https://github.com/miljodir/guider/blob/main/tilgang-til-slack.md
 
 
 
