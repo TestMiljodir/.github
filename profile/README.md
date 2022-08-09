@@ -12,7 +12,7 @@
 
 •	Hjemmeside: https://www.miljodirektoratet.no/
 
-•	Kjøreregler for produktutvikling: https://github.com/miljodir/guider/blob/main/produktutvikling.md (send en epost til ithjelp@miljodir.no for å be om tilgang).
+•	Kjøreregler for produktutvikling: https://github.com/miljodir/guider/blob/main/produktutvikling.md.
 
 •	Slack: https://github.com/miljodir/guider/blob/main/tilgang-til-slack.md
 
