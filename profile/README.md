@@ -16,6 +16,11 @@
 
 •	Slack: https://github.com/miljodir/guider/blob/main/tilgang-til-slack.md
 
+<b>Eksempelprofil</b>
+
+https://github.com/crolsson
+
+
 
 
 
