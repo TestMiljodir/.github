@@ -4,23 +4,15 @@
 
 •	Ikke legg inn data som kan forårsake sikkerhetsproblemer. Passord, innloggingstokens og andre "hemmeligheter" skal legges i Azure Key Vault.
 
-•	Legg inn et <b>bilde</b> i profilen din hvor en ser at det er deg.
+•	Legg inn et <b>bilde</b> i profilen din hvor en ser at det er deg. (eksempel: https://github.com/crolsson)
 
 •	Legg gjerne inn hvilket team du jobber i, hva du jobber med, og hvor du jobber i profilen din.
 
 <b>Nyttige lenker</b>
 
-•	Hjemmeside: https://www.miljodirektoratet.no/
-
 •	Kjøreregler for produktutvikling: https://github.com/miljodir/guider/blob/main/produktutvikling.md.
 
 •	Slack: https://github.com/miljodir/guider/blob/main/tilgang-til-slack.md
-
-<b>Eksempelprofil</b>
-
-https://github.com/crolsson
-
-
 
 
 
