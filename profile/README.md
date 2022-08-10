@@ -6,7 +6,7 @@
 
 •	Legg inn et <b>bilde</b> i profilen din hvor en ser at det er deg. (eksempel: https://github.com/crolsson)
 
-•	Legg gjerne inn hvilket team du jobber i, hva du jobber med, og hvor du jobber i profilen din.
+  •	Legg gjerne inn hvilket team du jobber i, hva du jobber med også.
 
 <b>Nyttige lenker</b>
 
